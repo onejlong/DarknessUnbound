@@ -4,3 +4,6 @@
 
 /.vs/DarknessUnbound/FileContentIndex
 /.vs/DarknessUnbound/v18
+/.vs
+/obj/*
+/bin/*
