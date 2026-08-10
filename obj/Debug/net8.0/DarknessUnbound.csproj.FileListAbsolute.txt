@@ -1,0 +1,13 @@
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\bin\Debug\net8.0\DarknessUnbound.deps.json
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\bin\Debug\net8.0\DarknessUnbound.dll
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\bin\Debug\net8.0\DarknessUnbound.pdb
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.csproj.AssemblyReference.cache
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.AssemblyInfo.cs
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.sourcelink.json
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.dll
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\refint\DarknessUnbound.dll
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\DarknessUnbound.pdb
+C:\Users\Joe\Documents\My Games\Terraria\tModLoader\ModSources\DarknessUnbound\obj\Debug\net8.0\ref\DarknessUnbound.dll
