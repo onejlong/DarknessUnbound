@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DarknessUnbound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46de11137fbbae5cb909c02a791681475e41699e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83b5f356b474cf2c8c735e28bc78fc05fceb10c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DarknessUnbound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DarknessUnbound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

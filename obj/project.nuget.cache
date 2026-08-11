@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TcvQbPlU/DI=",
+  "dgSpecHash": "pf3it69BfXY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Joe\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DarknessUnbound\\DarknessUnbound.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Joe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
